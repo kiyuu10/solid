@@ -1,0 +1,1 @@
+A class should do one thing, should have only one job, modify or maintenance a class have 1000 lines is so difficult. we separate the class into several classes, then we can easily modify, maintenance.

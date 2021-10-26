@@ -1,0 +1,1 @@
+The Dependency Inversion Principle states that high-level modules should not depend on low-level modules, but rather on abstractions. Secondly, abstraction should not depend on details. When you think about it, this sounds like common sense. Practically, though, we might miss these details when we work on our software architecture.

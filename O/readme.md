@@ -1,0 +1,1 @@
+software entities should open for extension, but closed for modification, that is, we can use or extend it without modify. we can avoid make a entity become complicated, Easy to extension and maintenance
